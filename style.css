@@ -1,3 +1,19 @@
 p{
-	text-align: center;
+	text-align: center; 
 }
+body{
+	background-color:#cccccc;
+	color: red;
+}
+	em strong{
+	color: #0000ff
+}
+h1{
+	color:#0000ff
+	
+}
+border: 10px solid #521515;
+    padding-top: 20px;
+    margin: 40px;
+    padding-bottom: 20px;
+	}
