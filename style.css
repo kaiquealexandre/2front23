@@ -1,8 +1,13 @@
+*{
+	margin: 0%;
+}
+
+
 p{
 	text-align: center; 
 }
 body{
-	background-color:#cccccc;
+	background-color:#000000;
 	color: red;
 }
 	em strong{
@@ -12,8 +17,14 @@ h1{
 	color:#0000ff
 	
 }
-border: 10px solid #521515;
-    padding-top: 20px;
-    margin: 40px;
-    padding-bottom: 20px;
+#banner{
+	width: 100%;
+}
+	
+	.items{
+		font-style: italic;
+		list-style: nome;
+	}
+	#beneficios{
+		width: 100%;
 	}
