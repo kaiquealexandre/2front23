@@ -1,0 +1,36 @@
+*{
+	margin: 0%;
+}
+
+
+p,.centralizar{
+	text-align: center; 
+}
+body{
+	background-color:#000000;
+	color: red;
+}
+	em strong{
+	color: #ff0000
+}
+h1,h2{
+	color:#0000ff
+	
+}
+#banner{
+	width: 100%;
+}
+	
+	.items{
+		font-style: italic;
+		list-style: nome;
+	}
+	#beneficios{
+		width: 50%;
+	}
+	ul{
+		display: inline-block;
+		width: 20%;
+		margin-right: 15%;
+		vertical-align:top;
+	}
