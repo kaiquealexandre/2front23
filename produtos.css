@@ -11,3 +11,15 @@ nav li{
     text-transform: uppercase;
 
 }
+header{
+	background: #2499;
+	padding: 20px 0;
+}
+.content{
+	width: 940px;
+	margin:0 auto;
+}
+nav{
+	float:right;
+	margin-top:70px;
+}
